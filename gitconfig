@@ -52,3 +52,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = aberbach2023@gmail.com
+	name = Adam Aberbach
